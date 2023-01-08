@@ -14,3 +14,6 @@ For example:
 - If a player buys some property from the bank, the player needs to spend money in the app and that is it.
 - If a player buys some property from another player, the buyer player should inform the "spend money" operation in his account and the seller player needs to inform the "receive money" operation in his account
 - If a player needs to pay rent to another player, the player who have the property should inform the "receive money" operation in his account and the other player needs to inform the "spend money" operation in his account
+
+### Transaction flow
+<img src="https://user-images.githubusercontent.com/38296002/211177072-6208d77c-cb8a-4121-b78c-e2dd0ac23d69.png"/>

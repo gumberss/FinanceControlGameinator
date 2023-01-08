@@ -7,8 +7,8 @@ The vision of this version is to make the players control their money in a simpl
 
 ## How
 - [[3 - Start Game Control|Creating an initial setup of the game]]
-- [[1 - Accounts |Creating Accounts]]
-- [[2 - Transactions|Allowing Transactions]]
+- [[1 - Accounts Control |Creating Accounts]]
+- [[2 - Transactions Control|Allowing Transactions]]
 
 ## Limits
 

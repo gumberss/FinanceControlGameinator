@@ -45,8 +45,6 @@
 - Transactions will increase or decrease how much money the player have in the account
 - Start game control will set up the initial amount of money the player will have when the game is starting, adding some money in the account
 
-### What are the key abstractions and data structures that will be used?
-
 ## Testing and validation
     
 ### How will the system be tested to ensure that it meets the requirements?
