@@ -1,1 +1,0 @@
-The players need to have an account to hold their money, this account should be able to make transactions to receive and spend money. 

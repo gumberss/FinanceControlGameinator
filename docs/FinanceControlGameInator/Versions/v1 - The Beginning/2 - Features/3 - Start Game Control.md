@@ -9,3 +9,6 @@ Giving to the player the ability to hold money
 
 ## Limits
 At this moment, the Game Start Control will be limited to distribute money to the players 
+
+### Start Game Flow
+<img src="https://user-images.githubusercontent.com/38296002/211177259-92d455de-b127-44a6-a102-25d5ffeb8f55.png"/>
