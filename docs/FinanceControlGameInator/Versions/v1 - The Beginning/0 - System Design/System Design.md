@@ -19,11 +19,12 @@
 #### Functional
 - Make how much money the player have visible to him
 - Enable the player to spend money
-- Enable the player receive money
+- Enable the player to receive money
 
 #### Non-functional
 - Internationalization, the system should support pt-BR and en-US
 - The system should support light mode and dark mode
+- The app should be published on Play Store
 
 ## Capacity planning
     
@@ -53,8 +54,3 @@
 ### What are the plans for validation and deployment?
 - We can set up a code coverage to ensure validations in the deployment process
 - Also, the tests can run in GitHub actions that shows the code coverage in some way
-
-## References
-- [Flutter Test Library](https://api.flutter.dev/flutter/flutter_test/flutter_test-library.html)
-- [Flutter Test Types](https://docs.flutter.dev/testing)
-- [Why I don't set up a code converage percentage](https://stackoverflow.com/questions/90002/what-is-a-reasonable-code-coverage-for-unit-tests-and-why)
