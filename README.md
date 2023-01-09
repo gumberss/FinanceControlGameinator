@@ -37,6 +37,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gumbers/)
 
-Project Link: [https://github.com/gumberss/FinanceControlGameinator](https://github.com/gumberss/FinanceControlGameinator)
+Project Link: [https://github.com/gumberss/FinanceControlGameinatorDocs](https://github.com/gumberss/FinanceControlGameinatorDocs)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
