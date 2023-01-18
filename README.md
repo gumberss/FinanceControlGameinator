@@ -5,6 +5,9 @@
 Finance Control Gameinator is a game in development to help the people manage their money better, having some fun. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Recomendations
+I really recomend you use [Obsidian](https://obsidian.md) to check the docs
+
 ## Project Vision
 
 At the begging, the app is going to make the Monopoly game easier to play, and after some features and deployments, it will start going to other direction, focusing in features that people use on a daily basis to manage their finances
