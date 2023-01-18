@@ -6,7 +6,7 @@ Finance Control Gameinator is a game in development to help the people manage th
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Recomendations
-I really recomend you to use [Obsidian](https://obsidian.md) to check the docs
+I strongly recommend you to use [Obsidian](https://obsidian.md) to check the docs
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Vision
