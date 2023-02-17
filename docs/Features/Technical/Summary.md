@@ -1,0 +1,3 @@
+- BDC
+- Component by module (component segregation by module)
+- 
