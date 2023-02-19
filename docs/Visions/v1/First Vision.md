@@ -1,4 +1,6 @@
 ## Sign in / Sign up
+The main goal of this screen is to allow us to know who is the player. With it, we are going to be able to know what the data from one each player and manage it separately.
+It tends to be really simple visually, just providing a way for the player to sign in and sign up to the app, but in terms of the architecture, it tends to be a little more complex.
 <img src="https://user-images.githubusercontent.com/38296002/218339483-48a52565-aafa-4faf-a095-53691fd287e0.png" height="600px"/>
 
 ## Join a game 
@@ -6,10 +8,11 @@ This screen shows to the player the game he has and two buttons, to create a new
 <img src="https://user-images.githubusercontent.com/38296002/218339561-9078592c-9863-4cd7-93c4-3ca6438491b6.png" height="600px"/>
 
 ## Room (Leader vision)
-This screen allows the players to see one each other, also the room leader is able to order the player's turn and start the game
+This screen allows the players to see one each other, also the room leader is able to order the players' turn and start the game
 <img src="https://user-images.githubusercontent.com/38296002/218339623-285de27c-8384-48a4-8c78-6fb9081a61b3.png" height="600px"/>
 
 ## Room (Player vision)
+It should be like the Leader vision of the room, but the players shouldn't be able to order the players' turn.
 
 ## Roll the dices
 This is the vision of the player when his turn starts
